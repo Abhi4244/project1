@@ -4,5 +4,5 @@
 This website is not:
 1. responsive
 2. dynamic <br>
-but...<br>
- just a freaky 10 minute cooked food.
+ but...<br>
+just a freaky 10 minute cooked food.
