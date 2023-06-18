@@ -2,7 +2,7 @@
 # Don't judge my skills by viewing this website.
 # This was prepared in just 10 minutes and that too when I was in a flight.
 This website is not:
-> responsive
-> dynamic
-but...
-> just a freaky 10 minute cooked food.
+1. responsive
+2. dynamic <br>
+but...<br>
+ just a freaky 10 minute cooked food.
